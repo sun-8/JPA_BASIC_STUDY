@@ -7,4 +7,6 @@ public class GithubTest {
     /* feature/test01
             feature/test01_01 */
     // 이때, test01을 push하여 develop에 merge시켰을 때 test01_01은 어떠한 상태가 되는지 테스트 해보겠습니다.
+    
+    // feature/test01_01을 생성했습니다.
 }
