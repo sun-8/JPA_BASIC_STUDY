@@ -10,6 +10,7 @@
         <class>jpabasic.reserve.domain.User</class>
         <class>jpabasic.reserve.domain.Hotel</class>
         <class>jpabasic.reserve.domain.Review</class>
+        <class>jpabasic.reserve.domain.AccessLog</class>
         <exclude-unlisted-classes>true</exclude-unlisted-classes>
         <properties>
             <property name="jakarta.persistence.jdbc.driver" value="com.mysql.cj.jdbc.Driver"/>

@@ -7,8 +7,8 @@ import jpabasic.reserve.jpa.EMF;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-public class Main5Native {
-    private static Logger logger = LoggerFactory.getLogger(Main5Native.class);
+public class Main05Native {
+    private static Logger logger = LoggerFactory.getLogger(Main05Native.class);
 
     public static void main(String[] args) {
         EMF.init();
