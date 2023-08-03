@@ -1,4 +1,4 @@
-package jpabasic.reserve.main;
+package main;
 
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.EntityTransaction;

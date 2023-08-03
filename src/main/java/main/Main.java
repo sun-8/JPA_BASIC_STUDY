@@ -1,4 +1,4 @@
-package jpabasic.reserve.main;
+package main;
 
 import jakarta.persistence.EntityExistsException;
 import jpabasic.reserve.app.*;
